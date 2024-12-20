@@ -19,6 +19,9 @@ body .block img {
   height: 100%;
   object-fit: contain;
 }
+body .block #first-img {
+  width: 50%;
+}
 body .widget {
   position: fixed;
   right: 50px;
